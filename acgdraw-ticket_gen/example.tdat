@@ -1,0 +1,20 @@
+﻿{
+	"options": {
+		"QRCodeString" : "example",
+        "QRCodeSize" : "550x550",
+        "QRCodeMargin" : 1,
+        "QRCodePosition" : "1735,200",
+        "Number" : "1000000000",
+        "NumberPrefix" : "门票号 ",
+        "NumberFont" : "Microsoft Yahei",
+        "NumberColor" : "#FFFFFF",
+        "NumberSize" : 48,
+        "NumberPosition" : "30,850"
+	},
+	"tickets": [
+		["1000000000", "1000000000abcde"],
+		["1000000020", "1000050000abcde"],
+		["1000000300", "1000060000abcde"],
+		["1000000400", "1000070000abcde"]
+	]
+}
